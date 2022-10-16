@@ -1,0 +1,9 @@
+{
+	"name": "demo01sftp",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "d8bcbaf5-0055-4efd-bb15-333f146f8fac",
+		"tenantId": "47da9ac4-f585-4753-bf40-7c7c8fe635cf"
+	}
+}
